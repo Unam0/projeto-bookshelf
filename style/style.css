@@ -1,0 +1,58 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    padding-bottom: 15px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+
+main {
+    padding-top: 15px;
+    }
+
+
+img {
+    height: 350px;
+}
+
+
+p {
+    font-size: small;
+}
+
+
+div {
+    padding: 7px;
+}
+
+
+.botaodif {
+background-color: #000;
+
+}
+
+
+button{
+    cursor: pointer;
+    border: none;
+    height: 40px;
+    box-shadow: none;
+    margin: 2px;
+    padding: 5px;
+    border-radius: 25px;
+    background-color: rgb(68, 75, 215);
+    color: #fff;
+}
+
+
+button:hover {
+opacity: 0.8;
+}
